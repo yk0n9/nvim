@@ -18,7 +18,7 @@ cd $env:LOCALAPPDATA
 git clone https://github.com/ykong1337/nvim
 ```
 
-### Kye
+### Key
 
 #### Normal
 
