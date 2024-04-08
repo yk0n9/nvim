@@ -6,5 +6,8 @@ return {
     opts = {
         vim.keymap.set("n", "<Tab>", ":NvimTreeToggle<CR>", silent),
         vim.keymap.set("n", "<C-f>", ":NvimTreeFindFile<CR>", silent),
+        git = {
+            timeout = 600000,
+        },
     },
 }

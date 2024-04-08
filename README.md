@@ -40,6 +40,7 @@ git clone https://github.com/ykong1337/nvim
 | Shift + Q | Quit                       |
 | Enter     | Start new line             |
 | ;         | Command                    |
+| gcc       | Comment code line          |
 
 #### Insert
 
@@ -51,9 +52,10 @@ git clone https://github.com/ykong1337/nvim
 
 #### Terminal
 
-| Key | description       |
-|-----|-------------------|
-| Esc | Esc terminal mode |
+| Key | description        |
+|-----|--------------------|
+| Esc | Esc terminal mode  |
+| gc  | Comment code block |
 
 ### Lang
 
