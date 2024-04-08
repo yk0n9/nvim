@@ -7,7 +7,7 @@
 ```shell
 pacman -S neovim nodejs
 cd ~/.config
-git clone https://github.com/ykong1337/nvim
+git clone https://github.com/yk0n9/nvim
 ```
 
 #### windows
@@ -15,7 +15,7 @@ git clone https://github.com/ykong1337/nvim
 ```shell
 scoop install neovim nodejs
 cd $env:LOCALAPPDATA
-git clone https://github.com/ykong1337/nvim
+git clone https://github.com/yk0n9/nvim
 ```
 
 ### Key
