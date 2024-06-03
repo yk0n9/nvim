@@ -1,4 +1,3 @@
 return {
-    "ellisonleao/gruvbox.nvim",
-    opts = {},
+    "catppuccin/nvim",
 }
