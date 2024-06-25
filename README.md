@@ -41,6 +41,11 @@ git clone https://github.com/yk0n9/nvim
 | Enter     | Start new line             |
 | ;         | Command                    |
 | gcc       | Comment code line          |
+| gd        | coc-definition             |
+| gy        | coc-type-definition        |
+| gi        | coc-implementation         |
+| gr        | coc-references-used        |
+| Ctrl + O  | Go back last time          |
 
 #### Insert
 
@@ -50,12 +55,17 @@ git clone https://github.com/yk0n9/nvim
 | Ctrl + P | coc-prev    |
 | Enter    | coc-confirm |
 
-#### Terminal
+#### Visual
 
 | Key | description        |
 |-----|--------------------|
-| Esc | Esc terminal mode  |
 | gc  | Comment code block |
+
+#### Terminal
+
+| Key | description       |
+|-----|-------------------|
+| Esc | Esc terminal mode |
 
 ### Lang
 
