@@ -12,7 +12,7 @@ key.set("i", "<C-h>", "<Left>")
 key.set("i", "<C-l>", "<Right>")
 
 key.set("n", "<Space>", "/")
-key.set("n", "<S-q>", ":q<CR>", silent)
-key.set("n", "<CR>", "o<Esc>")
+key.set("n", "<S-q>", ":q!<CR>", silent)
 key.set("n", ";", ":")
+
 key.set("t", "<Esc>", [[<C-\><C-n>]])
